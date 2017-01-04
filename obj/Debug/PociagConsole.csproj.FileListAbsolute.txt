@@ -1,0 +1,6 @@
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\bin\Debug\PociagConsole.exe.config
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\obj\Debug\PociagConsole.csprojResolveAssemblyReference.cache
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\bin\Debug\PociagConsole.exe
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\bin\Debug\PociagConsole.pdb
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\obj\Debug\PociagConsole.exe
+c:\users\adrianek\documents\visual studio 2013\Projects\PociagConsole\PociagConsole\obj\Debug\PociagConsole.pdb
